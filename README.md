@@ -30,3 +30,12 @@ This framework is still under development, and should not be used for production
 
 * Client side DOM manipulation via [jQuery](http://jquery.com)
 * Integrated [jQuery Lite](https://docs.angularjs.org/api/ng/function/angular.element) version for use without an external dependency (like in AngularJS)
+
+## Used libraries (in progress)
+
+### Server side
+* [Express](http://expressjs.com/)
+* [Chai](http://chaijs.com/)
+
+### Client side
+* [jQuery](http://jquery.com)

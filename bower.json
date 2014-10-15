@@ -1,0 +1,25 @@
+{
+  "name": "HybridJS",
+  "main": "index.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/HybridJS/HybridJS",
+  "authors": [
+    "NodeCode <info@nodecode.de>"
+  ],
+  "description": "(In development) Experimental JavaScript web framework and template engine, similar to AngularJS, but allow hybrid rendering on server and client side.",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+	  "jquery": "^2.1.1"
+  }
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

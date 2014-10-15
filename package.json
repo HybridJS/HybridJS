@@ -1,0 +1,36 @@
+{
+  "name": "HybridJS",
+  "version": "0.0.0",
+  "description": "(In development) Experimental JavaScript web framework and template engine, similar to AngularJS, but allow hybrid rendering on server and client side.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HybridJS/HybridJS.git"
+  },
+  "keywords": [
+    "framework",
+    "template",
+    "templates",
+    "engine",
+    "express",
+    "hybrid",
+    "web",
+    "http",
+    "nodejs",
+    "parser",
+    "mvc",
+    "mvvm"
+  ],
+  "author": "NodeCode <info@nodecode.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HybridJS/HybridJS/issues"
+  },
+  "homepage": "https://github.com/HybridJS/HybridJS",
+  "dependencies": {
+    "chai": "^1.9.2"
+  }
+}
